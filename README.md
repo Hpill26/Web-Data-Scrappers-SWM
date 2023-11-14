@@ -11,3 +11,7 @@ Explantion of Directories:
 3) EVALUATIONS contains all of the visualizations we created to evaluate and highlight our findings during our class demo
 
 Thank you for checking out our project, have a nice day! 😀😀😀
+
+
+Group 2 Members: Harish Karthik Kumaran Pillai, Nihar Nitesh Nayak, Abhinav Reddy Bendrapu, Rohit Reddy Suluguri, Vijaya Sriram Yalamandala, Jyothir Venkata Pavan Varma Vatsavayi
+
